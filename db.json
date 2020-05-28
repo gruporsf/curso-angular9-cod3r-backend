@@ -22,7 +22,7 @@
     },
     {
       "nome": "Novo Produto",
-      "preco": "15.55",
+      "preco": 15.55,
       "id": 6
     },
     {
