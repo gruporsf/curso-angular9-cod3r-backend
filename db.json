@@ -29,6 +29,16 @@
       "nome": "Produto de teste",
       "preco": 125.99,
       "id": 7
+    },
+    {
+      "nome": "meu primeiro produto",
+      "preco": 99,
+      "id": 8
+    },
+    {
+      "nome": "geladeira",
+      "preco": "1.00",
+      "id": 9
     }
   ]
 }
