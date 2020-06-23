@@ -2,18 +2,13 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Caneta Bic Preta",
-      "preco": 5.84
+      "nome": "Caneta Bic Rosa",
+      "preco": "0.50"
     },
     {
       "id": 2,
       "nome": "Notebook Samsung Core i5",
       "preco": 5012.84
-    },
-    {
-      "id": 3,
-      "nome": "Notebook Macbook Core i5",
-      "preco": 15012.84
     },
     {
       "id": 4,
@@ -26,11 +21,6 @@
       "id": 6
     },
     {
-      "nome": "Produto de teste",
-      "preco": 125.99,
-      "id": 7
-    },
-    {
       "nome": "meu primeiro produto",
       "preco": 99,
       "id": 8
@@ -39,6 +29,21 @@
       "nome": "geladeira",
       "preco": "1.00",
       "id": 9
+    },
+    {
+      "nome": "Novo teste",
+      "preco": "0.55",
+      "id": 10
+    },
+    {
+      "nome": "Teste",
+      "preco": "123.33",
+      "id": 11
+    },
+    {
+      "nome": "Mais um teste",
+      "preco": "1.22",
+      "id": 12
     }
   ]
 }
